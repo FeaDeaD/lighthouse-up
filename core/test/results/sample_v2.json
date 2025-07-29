@@ -1,5 +1,5 @@
 {
-  "lighthouseVersion": "12.7.1",
+  "lighthouseVersion": "12.8.0",
   "requestedUrl": "http://localhost:10200/dobetterweb/dbw_tester.html",
   "mainDocumentUrl": "http://localhost:10200/dobetterweb/dbw_tester.html",
   "finalDisplayedUrl": "http://localhost:10200/dobetterweb/dbw_tester.html",
@@ -2781,7 +2781,7 @@
     "trusted-types-xss": {
       "id": "trusted-types-xss",
       "title": "Mitigate DOM-based XSS with Trusted Types",
-      "description": "The `require-trusted-types-for` directive in the `Content-Security-Policy` (CSP) header instructs user agents to control the data passed to DOM XSS sink functions. [Learn more about mitigating DOM-based XSS with Trusted Types](https://web.dev/articles/trusted-types).",
+      "description": "The `require-trusted-types-for` directive in the `Content-Security-Policy` (CSP) header instructs user agents to control the data passed to DOM XSS sink functions. [Learn more about mitigating DOM-based XSS with Trusted Types](https://developer.chrome.com/docs/lighthouse/best-practices/trusted-types-xss).",
       "score": 1,
       "scoreDisplayMode": "informative",
       "details": {

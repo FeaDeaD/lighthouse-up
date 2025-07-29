@@ -1,7 +1,7 @@
 {
   "name": "lighthouse",
   "type": "module",
-  "version": "12.7.1",
+  "version": "12.8.0",
   "description": "Automated auditing, performance metrics, and best practices for the web.",
   "main": "./core/index.js",
   "bin": {
@@ -189,7 +189,7 @@
     "webtreemap-cdt": "^3.2.1"
   },
   "dependencies": {
-    "@paulirish/trace_engine": "0.0.56",
+    "@paulirish/trace_engine": "0.0.57",
     "@sentry/node": "^9.28.1",
     "axe-core": "^4.10.3",
     "chrome-launcher": "^1.2.0",
@@ -201,7 +201,7 @@
     "intl-messageformat": "^10.5.3",
     "jpeg-js": "^0.4.4",
     "js-library-detector": "^6.7.0",
-    "lighthouse-logger": "^2.0.1",
+    "lighthouse-logger": "^2.0.2",
     "lighthouse-stack-packs": "1.12.2",
     "lodash-es": "^4.17.21",
     "lookup-closest-locale": "6.2.0",

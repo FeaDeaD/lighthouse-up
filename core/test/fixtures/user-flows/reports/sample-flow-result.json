@@ -2,7 +2,7 @@
   "steps": [
     {
       "lhr": {
-        "lighthouseVersion": "12.7.1",
+        "lighthouseVersion": "12.8.0",
         "requestedUrl": "https://www.mikescerealshack.co/",
         "mainDocumentUrl": "https://www.mikescerealshack.co/",
         "finalDisplayedUrl": "https://www.mikescerealshack.co/",
@@ -2265,7 +2265,7 @@
           "trusted-types-xss": {
             "id": "trusted-types-xss",
             "title": "Mitigate DOM-based XSS with Trusted Types",
-            "description": "The `require-trusted-types-for` directive in the `Content-Security-Policy` (CSP) header instructs user agents to control the data passed to DOM XSS sink functions. [Learn more about mitigating DOM-based XSS with Trusted Types](https://web.dev/articles/trusted-types).",
+            "description": "The `require-trusted-types-for` directive in the `Content-Security-Policy` (CSP) header instructs user agents to control the data passed to DOM XSS sink functions. [Learn more about mitigating DOM-based XSS with Trusted Types](https://developer.chrome.com/docs/lighthouse/best-practices/trusted-types-xss).",
             "score": 1,
             "scoreDisplayMode": "informative",
             "details": {
@@ -10822,7 +10822,7 @@
     },
     {
       "lhr": {
-        "lighthouseVersion": "12.7.1",
+        "lighthouseVersion": "12.8.0",
         "finalDisplayedUrl": "https://www.mikescerealshack.co/search?q=call+of+duty",
         "fetchTime": "2025-02-05T01:31:50.141Z",
         "gatherMode": "timespan",
@@ -16314,7 +16314,7 @@
     },
     {
       "lhr": {
-        "lighthouseVersion": "12.7.1",
+        "lighthouseVersion": "12.8.0",
         "finalDisplayedUrl": "https://www.mikescerealshack.co/search?q=call+of+duty",
         "fetchTime": "2025-02-05T01:32:00.108Z",
         "gatherMode": "snapshot",
@@ -22336,7 +22336,7 @@
     },
     {
       "lhr": {
-        "lighthouseVersion": "12.7.1",
+        "lighthouseVersion": "12.8.0",
         "requestedUrl": "https://www.mikescerealshack.co/corrections",
         "mainDocumentUrl": "https://www.mikescerealshack.co/corrections",
         "finalDisplayedUrl": "https://www.mikescerealshack.co/corrections",
@@ -24588,7 +24588,7 @@
           "trusted-types-xss": {
             "id": "trusted-types-xss",
             "title": "Mitigate DOM-based XSS with Trusted Types",
-            "description": "The `require-trusted-types-for` directive in the `Content-Security-Policy` (CSP) header instructs user agents to control the data passed to DOM XSS sink functions. [Learn more about mitigating DOM-based XSS with Trusted Types](https://web.dev/articles/trusted-types).",
+            "description": "The `require-trusted-types-for` directive in the `Content-Security-Policy` (CSP) header instructs user agents to control the data passed to DOM XSS sink functions. [Learn more about mitigating DOM-based XSS with Trusted Types](https://developer.chrome.com/docs/lighthouse/best-practices/trusted-types-xss).",
             "score": 1,
             "scoreDisplayMode": "informative",
             "details": {
